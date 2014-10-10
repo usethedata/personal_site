@@ -1,0 +1,10 @@
+AuthUserFile /home/wb5/public_html/priv/.htpasswd
+AuthGroupFile /home/wb5/public_html/priv/.htgroup
+AuthName "the ORNL Intranet"
+AuthType Basic
+
+<Limit GET>
+require user wb5
+#require valid-user
+#require group projectx
+</Limit>

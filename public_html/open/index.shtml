@@ -1,0 +1,98 @@
+<!--This index page is generated-->
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+
+<head>
+<meta http-equiv="refresh" content="3600">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="keywords" content="">
+<meta name="description" content="">
+<meta name="robots" content="noindex,nofollow">
+
+<link rel="stylesheet" type="text/css" href="/ornlhome/styles/public_home_styles.css">
+
+<title>Oak Ridge National Laboratory - Index Not Available</title>
+
+<link href="styles/public_home_styles.css" rel="stylesheet" type="text/css">
+</head>
+
+<body TOPMARGIN ="0" LEFTMARGIN="0" MARGINHEIGHT="0" MARGINWIDTH="0" bgcolor="#FFFFFF">
+<!-- DO NOT MOVE! The following AllWebMenus code must always be placed right AFTER the BODY tag-->
+<!-- ******** BEGIN ALLWEBMENUS CODE FOR pub2menu ******** -->
+<span id='xawmMenuPathImg-pub2menu' style='position:absolute;top:-50px'><img name='awmMenuPathImg-pub2menu' id='awmMenuPathImg-pub2menu' src='/ornlhome/awmmenupath.gif' alt=''></span><script type='text/javascript'>var MenuLinkedBy='AllWebMenus [2]', awmBN='524'; awmAltUrl='';</script><script src='/ornlhome/pub2menu.js' language='JavaScript1.2' type='text/javascript'></script><script type='text/javascript'>awmBuildMenu();</script>
+<!-- ******** END ALLWEBMENUS CODE FOR pub2menu ******** -->
+<table width="975" border="0" cellpadding="0" cellspacing="0">
+
+	<!--#include virtual="/ornlhome/includes/home_header.shtml"-->
+	<tr valign="middle" bgcolor="#FFFFFF" class="navigation_breadcrumbs">
+    <td height="18" colspan="5">
+
+	<!--Begin Navigation Breadcrumbs-->
+	
+&nbsp;&nbsp;&nbsp;Location <img src="/ornlhome/images/r_h_arrow.gif" width="4" height="10" alt="right-hand arrow">&nbsp;&nbsp;<a href="/">ORNL Home</a>&nbsp;&middot;&nbsp;Directory Index
+
+	<!--End Navigation Breadcrumbs-->
+	
+	</td>
+	</tr>
+	<tr><td width="180" rowspan="8" valign="top" background="/ornlhome/images/nav_stripe_wide.jpg">
+	<!--#include virtual="/ornlhome/includes/home_menu.shtml"-->
+	</td>
+	<td width="1" rowspan="8" valign="top" background="/ornlhome/images/black_pixel.gif"></td>
+    <td width="583" valign="top" bgcolor="#FFFFFF" height="0">
+    <td width="1" rowspan="8" valign="top" background="/ornlhome/images/black_pixel.gif"></td>
+    <td width="210" rowspan="8" valign="top">
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tr>
+	<td width="6"></td>
+	<td width="204">
+	<!--#include virtual="/ornlhome/includes/home_search.shtml"-->
+	</td></tr>
+    <tr height="8"><td>
+	</td></tr>
+	<tr><td>
+	<!--#include virtual="/ornlhome/includes/home_news_releases.shtml"-->
+	</td></tr>
+	<tr><td>
+	<!--#include virtual="/ornlhome/includes/home_ornl_review.shtml"-->
+		</td></tr>
+	</table>
+	</td></tr>
+	<tr><td valign="top">
+	
+ <table width="500" border="0" align="center" cellpadding="0" cellspacing="0">
+ <tr  height="360" valign "top"><td valign="top"><img src="/ornlhome/images/index_subheader.jpg" width="553" height="63" border="0" align="top"> 
+
+
+<p class="heading_page">Index Not Available</p>
+
+<!--Begin Page Content-->
+<P class="text_body">This directory has no home page.</P>
+<!--End Page Content-->
+
+</td>
+ </tr>
+ </table>
+	
+		</td></tr>
+	<!--#include virtual="/ornlhome/includes/home_footer1.shtml"-->
+	<td width="58%" height="10"><div align="center" class="text_small">Revised: 
+	<!--#config timefmt="%B %e, %Y"--><!--#echo var="LAST_MODIFIED" --><br></div>
+	</td>
+	<!--#include virtual="/ornlhome/includes/home_footer2.shtml"-->
+	
+</table>
+   </td>
+  </tr>
+</table>
+</body>
+</html>
+
+
+
+
+
+
+
